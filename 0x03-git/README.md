@@ -1,1 +1,1 @@
-My git directory readme
+My git directory readme edited.
